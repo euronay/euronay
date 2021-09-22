@@ -11,8 +11,8 @@ Find my blog at [jamesnaylor.dev](https://jamesnaylor.dev).
 
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=euronay&theme=dark&show_icons=true&count_private=true" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euronay&hide=vhdl&theme=dark&langs_count=6&layout=compact"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=euronay&theme=nord&show_icons=true&count_private=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euronay&hide=vhdl&theme=nord&langs_count=6&layout=compact"/>
 </div>
 
 <br>
